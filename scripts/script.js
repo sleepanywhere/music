@@ -10,19 +10,27 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "never gonna give you up",
-          artist: "rick astley",
-          cover: "https://raw.githubusercontent.com/milikmu/web-music.github.io/master/img/1.jpg",
-          source: "https://raw.githubusercontent.com/milikmu/web-music.github.io/master/mp3/1.mp3",
-          url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          name: "Kick Back",
+          artist: "Kenshi Yonezu",
+          cover: "https://raw.githubusercontent.com/sleepanywhere/music/master/img/Kickback.jpeg",
+          source: "https://raw.githubusercontent.com/milikmu/web-music.github.io/master/mp3/kickback.mp3",
+          url: "#",
           favorited: false
         },
         {
-          name: "Dj Tahun Baru × Tiban Tiban Slow",
-          artist: "rahmat tahalu",
-          cover: "https://raw.githubusercontent.com/milikmu/web-music.github.io/master/img/2.jpg",
-          source: "https://raw.githubusercontent.com/milikmu/web-music.github.io/master/mp3/2.mp3",
-          url: "https://www.youtube.com/watch?v=H5bZGVJ8G68",
+          name: "Chainsaw Blood",
+          artist: "Vaundy",
+          cover: "https://raw.githubusercontent.com/sleepanywhere/music/master/img/Chainsawblood.jpeg",
+          source: "https://raw.githubusercontent.com/sleepanywhere/music/master/mp3/chainsawblood.mp3",
+          url: "#",
+          favorited: false
+        },
+        {
+          name: "Timeleft",
+          artist: "Zutomayo",
+          cover: "https://raw.githubusercontent.com/sleepanywhere/music/master/img/timeleft.png",
+          source: "https://raw.githubusercontent.com/sleepanywhere/music/master/mp3/timeleft.mp3",
+          url: "#",
           favorited: false
         }
       ],
