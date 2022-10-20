@@ -12,8 +12,8 @@ new Vue({
         {
           name: "Kick Back",
           artist: "Kenshi Yonezu",
-          cover: "https://raw.githubusercontent.com/sleepanywhere/music/master/img/Kickback.jpeg",
-          source: "https://raw.githubusercontent.com/milikmu/web-music.github.io/master/mp3/kickback.mp3",
+          cover: "https://raw.githubusercontent.com/sleepanywhere/music/master/img/KickBack.jpeg",
+          source: "https://raw.githubusercontent.com/sleepanywhere/music/master/mp3/kickback.mp3",
           url: "#",
           favorited: false
         },
