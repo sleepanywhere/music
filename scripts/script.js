@@ -9,6 +9,7 @@ new Vue({
       currentTime: null,
       isTimerPlaying: false,
       tracks: [
+      
         {
           name: "Kick Back",
           artist: "Kenshi Yonezu",
