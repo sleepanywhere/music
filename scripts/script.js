@@ -13,24 +13,24 @@ new Vue({
         {
           name: "Kick Back",
           artist: "Kenshi Yonezu",
-          cover: "https://raw.githubusercontent.com/sleepanywhere/music/master/img/KickBack.jpeg",
-          source: "https://raw.githubusercontent.com/sleepanywhere/music/master/mp3/kickback.mp3",
+          cover: "https://storage.yukkkiii.my.id/audio/thum/KickBack.jpeg",
+          source: "https://storage.yukkkiii.my.id/audio/kickback.mp3",
           url: "#",
           favorited: false
         },
         {
           name: "Chainsaw Blood",
           artist: "Vaundy",
-          cover: "https://raw.githubusercontent.com/sleepanywhere/music/master/img/Chainsawblood.jpeg",
-          source: "https://raw.githubusercontent.com/sleepanywhere/music/master/mp3/chainsawblood.mp3",
+          cover: "https://storage.yukkkiii.my.id/audio/thum/Chainsawblood.jpeg",
+          source: "https://storage.yukkkiii.my.id/audio/chainsawblood.mp3",
           url: "#",
           favorited: false
         },
         {
           name: "Timeleft",
           artist: "Zutomayo",
-          cover: "https://raw.githubusercontent.com/sleepanywhere/music/master/img/timeleft.png",
-          source: "https://raw.githubusercontent.com/sleepanywhere/music/master/mp3/timeleft.mp3",
+          cover: "https://storage.yukkkiii.my.id/audio/thum/timeleft.png",
+          source: "https://storage.yukkkiii.my.id/audio/timeleft.mp3",
           url: "#",
           favorited: false
         },
@@ -45,7 +45,7 @@ new Vue({
         {
           name: "Flower Tower",
           artist: "Sayuri",
-          cover: "https://storage.yukkkiii.my.id/audio/thum/flowertower.jpg",
+          cover: "https://storage.yukkkiii.my.id/audio/thum/flowertower.jpeg",
           source: "https://storage.yukkkiii.my.id/audio/flowertower.mp3",
           url: "#",
           favorited: false
@@ -53,7 +53,7 @@ new Vue({
         {
           name: "Cinderella",
           artist: "Cidergirl",
-          cover: "https://storage.yukkkiii.my.id/audio/thum/cinderella.jpg",
+          cover: "https://storage.yukkkiii.my.id/audio/thum/cinderella.jpeg",
           source: "https://storage.yukkkiii.my.id/audio/cinderella.mp3",
           url: "#",
           favorited: false
@@ -61,7 +61,7 @@ new Vue({
         {
           name: "Hoshigaoyogu",
           artist: "Macaroni Empitsu",
-          cover: "https://storage.yukkkiii.my.id/audio/thum/hoshigaoyogu.jpg",
+          cover: "https://storage.yukkkiii.my.id/audio/thum/hoshigaoyogu.jpeg",
           source: "https://storage.yukkkiii.my.id/audio/hoshigaoyogu.mp3",
           url: "#",
           favorited: false
