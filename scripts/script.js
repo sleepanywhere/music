@@ -33,6 +33,38 @@ new Vue({
           source: "https://raw.githubusercontent.com/sleepanywhere/music/master/mp3/timeleft.mp3",
           url: "#",
           favorited: false
+        },
+        {
+          name: "Wind",
+          artist: "Akeboshi",
+          cover: "https://storage.yukkkiii.my.id/audio/thum/wind.jpg",
+          source: "https://storage.yukkkiii.my.id/audio/wind.mp3",
+          url: "#",
+          favorited: false
+        },
+        {
+          name: "Flower Tower",
+          artist: "Sayuri",
+          cover: "https://storage.yukkkiii.my.id/audio/thum/flowertower.jpg",
+          source: "https://storage.yukkkiii.my.id/audio/flowertower.mp3",
+          url: "#",
+          favorited: false
+        },
+        {
+          name: "Cinderella",
+          artist: "Cidergirl",
+          cover: "https://storage.yukkkiii.my.id/audio/thum/cinderella.jpg",
+          source: "https://storage.yukkkiii.my.id/audio/cinderella.mp3",
+          url: "#",
+          favorited: false
+        },
+        {
+          name: "Hoshigaoyogu",
+          artist: "Macaroni Empitsu",
+          cover: "https://storage.yukkkiii.my.id/audio/thum/hoshigaoyogu.jpg",
+          source: "https://storage.yukkkiii.my.id/audio/hoshigaoyogu.mp3",
+          url: "#",
+          favorited: false
         }
       ],
       currentTrack: null,
